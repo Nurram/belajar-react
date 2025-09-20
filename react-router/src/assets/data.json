@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "salary": 50000,
+      "location": "London UK"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "salary": 40000,
+      "location": "San Francisco US"
+    },
+    {
+      "id": 3,
+      "title": "Flutter Developer",
+      "salary": 70000,
+      "location": "Tokyo Japan"
+    }
+  ]
+}
